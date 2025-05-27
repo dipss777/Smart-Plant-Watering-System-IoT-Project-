@@ -17,7 +17,6 @@ A **Smart IoT-Based Plant Watering System** that automates the watering process 
 - [Installation & Setup](#installation--setup)
 - [Customization](#customization)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
@@ -152,8 +151,3 @@ Use Blynk IoT App (Blynk 2.0):
 - Integrate **solar-powered system** for energy independence.
 - Use **local sensors (rain/temperature)** as an alternative to online weather APIs.
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
